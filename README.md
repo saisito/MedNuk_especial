@@ -1,6 +1,6 @@
 # MedNuk_especial
 
-Código utilizado para procesar los datos y obtener los ajustes y gráficas de la práctica especial de la materia **Mediciones Nucleares** (junio 2025).
+Datos experimentales y código utilizado para procesar los datos y obtener los ajustes y gráficas de la práctica especial de la materia **Mediciones Nucleares** (junio 2025).
 
 Todo el análisis está en `process.ipynb`. Para volver a ejecutar alguna celda necesitas tener Python y Jupyter (local o Colab).
 
@@ -9,6 +9,7 @@ Todo el análisis está en `process.ipynb`. Para volver a ejecutar alguna celda 
 ## 📂 Contenido
 
 - `process.ipynb` — Notebook con todo el análisis y las gráficas.
+- `Tabaco.xlsx` — Datos experimentales tomados de las muestras
 
 ---
 
